@@ -1,0 +1,23 @@
+{
+    "projectListDetails": [{
+        "id": "1",
+        "projectName": "ARC Reporting", 
+        "projectLocation": "Delhi",
+        "projectDuration": "1 Year"
+    }, {
+        "id": "2",
+        "projectName": "ARC Reporting", 
+        "projectLocation": "Delhi",
+        "projectDuration": "1 Year"
+    }, {
+        "id": "3",
+        "projectName": "ARC Reporting", 
+        "projectLocation": "Delhi",
+        "projectDuration": "1 Year"
+    }, {
+        "id": "4",
+        "projectName": "ARC Reporting", 
+        "projectLocation": "Delhi",
+        "projectDuration": "1 Year"
+    }]
+}
