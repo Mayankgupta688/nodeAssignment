@@ -46,10 +46,6 @@ app.get("/getuserdetails/:userid", function(request, response) {
 
                 var selectedUser = filteredUsers[0];
 
-                console.log(selectedUser);
-
-                console.log(filteredProject[0])
-
                 selectedUser["projectName"] = filteredProject[0].projectName;
                 selectedUser["projectLocation"] = filteredProject[0].projectLocation;
                 selectedUser["projectDuration"] = filteredProject[0].projectDuration;
